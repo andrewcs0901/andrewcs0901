@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Andrew, Software Engineer at Take Blip
+## Hi there 👋 I'm Andrew, Software Engineer
 [![](https://img.shields.io/badge/-Andrew%20Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-costa-0901/)](https://www.linkedin.com/in/andrew-costa-0901/)
 
 ### 🌱 I'm current learning
